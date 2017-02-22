@@ -15,7 +15,6 @@ Currently this project contains two examples:
 2. Instrumenting: For each specification a fixture class was created. This fixture class has been used to execute the tests
 3. Coding: Based on the tests the implementation was changed in order to meet the specification.
 
-
 ##The implementation
 
 * The game is implemented in Java 8.
@@ -26,4 +25,6 @@ Currently this project contains two examples:
 
 * Import the project into your IDE
 * Execute the tests in the folder src/test/java and check if they are successful
-* Concordion also an html page for each specification including the results
+* Concordion also an html page for each specification including the results. The following image shows the page. If you take a closer look at the screenshot, you will see that the last test fails.
+
+![screenshot](https://github.com/mo-schubert/concordion-example/blob/master/doc/images/screenshot-calculator-spec.PNG)
