@@ -21,3 +21,9 @@ Currently this project contains two examples:
 * The game is implemented in Java 8.
 * The project is set up as a Maven project.
 * This project is using [concordion](http://concordion.org) for the specification and the acceptance tests
+
+## How to use this example
+
+* Import the project into your IDE
+* Execute the tests in the folder src/test/java and check if they are successful
+* Concordion also an html page for each specification including the results
