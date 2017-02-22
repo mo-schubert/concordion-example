@@ -1,13 +1,6 @@
 # Calculator
 
-Der Calculator kann die Grundrechenarten abbilden. Dazu gehoeren: plus, minus, 
-
-### [Ausformulierte Beispiele](-)
-Die Zahl [10](- "#firstvalue") addiert zu der Zahl [5](- "#secondvalue") ergibt das Ergebnis [15.0](- "?=add(#firstvalue, #secondvalue)").
-
-Die Zahl [20](- "#firstvalue") addiert zu der Zahl [5](- "#secondvalue") ergibt das Ergebnis [25.0](- "?=add(#firstvalue, #secondvalue)").
-
-Die Zahl [0](- "#firstvalue") addiert zu der Zahl [-5](- "#secondvalue") ergibt das Ergebnis [-5.0](- "?=add(#firstvalue, #secondvalue)").
+Der Calculator kann mit den Grundrechenart rechnen. Fuer jede Grundrechenart werden 2 Zahlen uebergeben.
 
 ###[Kompakte Beispiele: Addition](-)
 
@@ -37,3 +30,12 @@ Die Zahl [0](- "#firstvalue") addiert zu der Zahl [-5](- "#secondvalue") ergibt 
 [99](- "#firstvalue") / [9](- "#secondvalue") = [11.0](- "?=divide(#firstvalue, #secondvalue)")
 
 [9](- "#firstvalue") / [10](- "#secondvalue") = [0.9](- "?=divide(#firstvalue, #secondvalue)")
+
+
+### [Ausformulierte Beispiele](-)
+
+Die Zahl [10](- "#firstvalue") addiert zu der Zahl [5](- "#secondvalue") ergibt das Ergebnis [15.0](- "?=add(#firstvalue, #secondvalue)").
+
+Die Zahl [20](- "#firstvalue") addiert zu der Zahl [5](- "#secondvalue") ergibt das Ergebnis [25.0](- "?=add(#firstvalue, #secondvalue)").
+
+Die Zahl [0](- "#firstvalue") addiert zu der Zahl [-5](- "#secondvalue") ergibt das Ergebnis [-5.0](- "?=add(#firstvalue, #secondvalue)").
