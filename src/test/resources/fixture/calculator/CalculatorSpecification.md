@@ -2,14 +2,14 @@
 
 Der Calculator kann mit den Grundrechenart rechnen. Fuer jede Grundrechenart werden 2 Zahlen uebergeben.
 
-###[Kompakte Beispiele: Addition](-)
+###[Examples: Addition](-)
 
 [99](- "#firstvalue") + [1](- "#secondvalue") = [100.0](- "?=add(#firstvalue, #secondvalue)")
 
 [9](- "#firstvalue") + [50](- "#secondvalue") = [59.0](- "?=add(#firstvalue, #secondvalue)")
 
 
-###[Kompakte Beispiele: Subtraktion](-)
+###[Examples: Subtraction](-)
 
 [99](- "#firstvalue") - [9](- "#secondvalue") = [90.0](- "?=subtract(#firstvalue, #secondvalue)")
 
@@ -17,7 +17,7 @@ Der Calculator kann mit den Grundrechenart rechnen. Fuer jede Grundrechenart wer
 
 
 
-###[Kompakte Beispiele: Multiplikation](-)
+###[Examples: Multiplication](-)
 
 [99](- "#firstvalue") * [9](- "#secondvalue") = [891.0](- "?=multiply(#firstvalue, #secondvalue)")
 
@@ -25,14 +25,14 @@ Der Calculator kann mit den Grundrechenart rechnen. Fuer jede Grundrechenart wer
 
 
 
-###[Kompakte Beispiele: Division](-)
+###[Examples: Division](-)
 
 [99](- "#firstvalue") / [9](- "#secondvalue") = [11.0](- "?=divide(#firstvalue, #secondvalue)")
 
 [9](- "#firstvalue") / [10](- "#secondvalue") = [0.9](- "?=divide(#firstvalue, #secondvalue)")
 
 
-### [Ausformulierte Beispiele](-)
+### [Examples written in natural language](-)
 
 Die Zahl [10](- "#firstvalue") addiert zu der Zahl [5](- "#secondvalue") ergibt das Ergebnis [15.0](- "?=add(#firstvalue, #secondvalue)").
 
