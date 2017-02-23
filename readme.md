@@ -41,7 +41,7 @@ My final step was to implement the system according the specification in way tha
 
 * Import the project into your IDE
 * Execute the tests in the folder src/test/java and check if they are successful
-* Concordion also an html page for each specification including the results. The following image shows the page. If you take a closer look at the screenshot, you will see that the last test fails.
+* Concordion creates a html page for each specification including the results. The following image shows the page for the calculator specification. If you take a closer look at the screenshot, you will see that the last test fails.
 
 ***
 
