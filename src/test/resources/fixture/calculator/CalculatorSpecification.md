@@ -1,6 +1,6 @@
 # Calculator
 
-Der Calculator kann mit den Grundrechenart rechnen. Fuer jede Grundrechenart werden 2 Zahlen uebergeben.
+The calculator is able to perform the basic calculations. This includes addition, subtraction, multiplication and division. The following examples should be correct.
 
 ###[Examples: Addition](-)
 
@@ -29,13 +29,15 @@ Der Calculator kann mit den Grundrechenart rechnen. Fuer jede Grundrechenart wer
 
 [99](- "#firstvalue") / [9](- "#secondvalue") = [11.0](- "?=divide(#firstvalue, #secondvalue)")
 
-[9](- "#firstvalue") / [10](- "#secondvalue") = [0.9](- "?=divide(#firstvalue, #secondvalue)")
+[9](- "#firstvalue") / [10](- "#secondvalue") = [0.9](- "?=divide(#firstvalue, #firstvalue)")
 
 
 ### [Examples written in natural language](-)
 
-Die Zahl [10](- "#firstvalue") addiert zu der Zahl [5](- "#secondvalue") ergibt das Ergebnis [15.0](- "?=add(#firstvalue, #secondvalue)").
+Given the values [10](- "#firstvalue") and [5](- "#secondvalue") and you perform the *addition* functionality, then the result should be [15.0](- "?=add(#firstvalue, #secondvalue)").
 
-Die Zahl [20](- "#firstvalue") addiert zu der Zahl [5](- "#secondvalue") ergibt das Ergebnis [25.0](- "?=add(#firstvalue, #secondvalue)").
+Given the values [30](- "#firstvalue") and [5](- "#secondvalue") and you perform the *subtract* functionality, then the result should be [25.0](- "?=subtract(#firstvalue, #secondvalue)").
 
-Die Zahl [0](- "#firstvalue") addiert zu der Zahl [-5](- "#secondvalue") ergibt das Ergebnis [-5.0](- "?=add(#firstvalue, #secondvalue)").
+Given the values [10](- "#firstvalue") and [5](- "#secondvalue") and you perform the *multiply* functionality, then the result should be [50.0](- "?=multiply(#firstvalue, #secondvalue)").
+
+Given the values [10](- "#firstvalue") and [5](- "#secondvalue") and you perform the *divide* functionality, then the result should be [2.0](- "?=divide(#firstvalue, #secondvalue)").
